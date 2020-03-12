@@ -1,0 +1,5 @@
+data sources
+
+1. https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
+
+2. https://www.cdc.gov/coronavirus/2019-ncov/testing-in-us.html
